@@ -1,3 +1,3 @@
-module web
+module github.com/jdlfounder/webapp
 
-go 1.17
+go 1.19
